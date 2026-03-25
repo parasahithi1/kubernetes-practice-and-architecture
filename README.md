@@ -1,7 +1,7 @@
 # kubernetes-practice-and-architecture
 Kubernetes architecture Notes  
 This repository contains my learning notes and hands-on understanding of Kubernetes architecture and core components
-## Cluster core Components 
+## Control plane Components 
 API server:   Entry Point for Cluster Communication 
 Schedular: Assign Pods to Worker Nodes 
 Controller Manager : Maintain Desire cluster state 
